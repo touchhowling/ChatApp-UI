@@ -1,6 +1,7 @@
-# chatappp
+# Chatapp UI
 
-A new Flutter project.
+A Flutter project with predefined messages and contacts.
+If u want to test this app install base.apk
 
 ## Getting Started
 
