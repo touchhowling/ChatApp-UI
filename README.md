@@ -62,6 +62,6 @@ We appreciate your time and effort in improving the ChatApp UI and creating a be
 
 If you have any questions, suggestions, or need assistance with the ChatApp UI, please feel free to reach out. We are here to help and ensure your experience with the UI is smooth and enjoyable.
 
-Happy coding and designing!
+
 
 ---
