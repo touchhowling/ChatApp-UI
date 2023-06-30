@@ -35,7 +35,7 @@ To run the ChatApp UI locally and explore the user interface, follow these steps
 2. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/chatapp-ui.git
+   git clone https://github.com/touchhowling/chatapp-ui.git
    ```
 
 3. Open the project in your preferred Flutter development environment (such as Android Studio, VS Code, or IntelliJ IDEA).
